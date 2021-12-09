@@ -1,0 +1,49 @@
+body{
+    background-color:white;
+}
+.contenu{
+    width:800px;
+    margin: 10px auto;
+    
+
+}
+.details{
+    /* background-color:; */
+    height: 150px;
+    padding-top: 10px;
+}
+.liste_contenu{
+
+}
+.liste_details{
+    /* background-color:greenyellow; */
+    height: 150px;
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 150px;
+    
+
+}
+h1,h2{
+    text-align: center;
+
+}
+
+.cv_session{
+    background-color:burlywood;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+div.details img{
+    float: left;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+p{
+    margin:0px;
+
+}
+hr{
+    border-color: lightskyblue;
+}
